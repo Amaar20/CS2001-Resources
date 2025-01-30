@@ -1,96 +1,79 @@
-# **Project Progress [Number]**
+# **Project Progress 1**
 
 ### Group number
 
 ### Contributors
 
-
-# Sprint [Number] - Review and Retrospective
+# Sprint 1 - Review and Retrospective
 
 ### Sprint Review
 
 #### **Sprint Goal and Demoed Features**
 
-Sprint Goal: ***
+Sprint Goal: 
 
 | Demoed Feature | Feedback   |
 |----------------|------------|
-| *              | *          |
+| Tailored resource frontend | Successfully implemented, backend still needs to be implemented|
 
 #### **Completed Tasks**
 
-**Instructions:** Document completed tasks for each item in your sprint backlog as shown below, i.e., each user story you have decided to implement in your sprint. (Remove example/instruction before you submit.)
-
-
 ####  Epic-User Story ID (Example: User registration - 001)
  **Acceptance criteria:**
- A new allotment user can save username, password, preferences for food items and preferred allotment locations.
+ 
+As a user I am able to interact with the tailored resource page, selecting how i feel to view personalised resources.
 
 | **Task ID** | **Description** | **Assigned To** | **Done?**| 
 | ------------| ----------------| ----------------| -----------|
-|001-1 Database| Implement data model and data repository for allotment users| Seona | Yes |
-|001-2 Backend | Implement API for registering allotment users|Seona | Yes |
-|001-3 Frontend| Create a registration form for allotment users in React | Clemence| No |
+|001-1 Frontend| Design a basic frontend with placeholders| Amaar | Yes |
+|001-4 Frontend | Design placeholder icons for user emotions|Amaar | Yes |
 
 ### New/Revised Tasks
-
-**Instructions:** Add any new tasks coming from the review that wasn't previously in the backlog. Below is an example. Remove the example and add yours.
 
 ####  Epic-User Story ID (Example: User registration - 001)
 
 | **Task ID** | **Description** |
 |-------------|-----------------|
-| 001-3 UI | The registration form for allotment users in React should show a drop-down list for preferred food items.
+| 001-2 UI | Create a basic matching system for resources tied to stress levels.
+| 001-3 UI | Implement a backend that stores and retrieves resources.
 
 ### Sprint Retrospective
 
 #### **Discussion**
 
-**Instructions:** Below is a simple retrospective template. You 
-can use others referenced from your Deliverables sheet. (Remove
-instruction before submission.)
-
 | What went well | What could have gone better | What will we do differently?|
 |----------------|-----------------------------|-------------|
-|*               | *                           | *           |
+|*Frontend implementation was good| The backend and matching system was delayed|Allocate some time for the backend|
 
-
-
-# Sprint [x] Plan
-
-**Instructions:** Add your sprint goal, sprint leads, and fill the spring backlog. (Remove the instructions before submission.)
+# Sprint 2 Plan
 
 ### Sprint Goal
 
 ### Sprint Leads
 
 ### Sprint Backlog
-
-**Instructions:** Fill in your sprint backlog for each user story you have decided to implement in your sprint. Below is an example for how User Registration-001 is modified in the new Sprint backlog.  Remove the example, and fill it with user stories from project backlog (that serves the sprint goal), adding more sub-headings and tables as necessary. (Remove the instructions before submission.)
-
 1.  Epic-User Story ID (Example: User registration - 001)
  **Acceptance criteria:**
  A new allotment user can save username, password, preferences for food items and preferred allotment locations.
 
 | **Task ID** | **Description** | **Story Point** | **Assigned To** |
 | ------------| ----------------| ----------------| ----------------|
-|001-3 Frontend| Create a registration form for allotment users in React | 8 | Clemence|
+|001-2 Backend| Create a matching system for resources | 5 | Amaar|
+|001-3 Backend| Implement a backend that stores and retrieves resources allowing the user to view past resources | 8 | Amaar|
 
 2. Epic-User Story ID...
 
-
 # Appendix - Project Backlog
 
-*Instructions:** Remove the example, and fill it with your project backlog. In the example, we kept User Registration - 001 as not all of its tasks are complete. The review also added a revision on how the form should collect users' preferred food items. (Remove the instructions before submission)
 
 | Epic              | US ID* | As a .. | I want to .. | So that ... | F/NF/UI** | Priority|
 | ----------------- | ------ | ------------- | ------- | ------- |-------- | ----- |
-| User registration | 001    | Allotment user | Create an account | I can save a profile of my preferences | F | High |
-|                   | 002    | Allotment user | Locate the best allotments on a map | I can choose the right ones during registration | UI | Low |
-|                   | 003    | User | Have access to the site 99.99% of the time | I do not get frustrated with user experience | NF | Low*** |
+| Tailored resources| 001    | User | Select how im feeling | I can view resources tailored to my needs | F | High |
+|                   | 002    | User | Save my progress and preferred resources | I can access it easier later on | F | Medium |
+|                   | 003    | User | View suggestions based off of my emotions | Resources can be found easier | F | High |
 
 *User Story ID
 
 **F/NF/UI - Functional/Non-Functional/User Interface
 
-***You may have prioritised this low, as you are not planning production yet.
+
