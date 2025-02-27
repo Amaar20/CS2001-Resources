@@ -2,7 +2,7 @@
 
 ### Group number
 20
-### Friya, Isaac, Jamima, Acelya, Viktor, Abdurashid, Tarif
+### Friya, Isaac, Jamima, Acelya, Viktor, Abdurashid, Amaar, Tarif
 
 # Sprint 2 - Review and Retrospective
 
@@ -132,6 +132,13 @@ Sprint Goal: have some integrated back end.
 | **Task ID** | **Description** | **Assigned To** | **Done?**| 
 | ------------| ----------------| ----------------| -----------|
 |002-01          | Implement Backend  | Tarif | No |
+
+####  Front end tailored resources - 012
+
+| **Task ID** | **Description** | **Assigned To** | **Done?**| 
+| ------------| ----------------| ----------------| -----------|
+| 001-2 UI | Create a basic matching system for resources tied to stress levels | Amaar | No |
+| 001-3 UI | Implement a backend that stores and retrieves resources | Amaar | No |
  
 ### New/Revised Tasks
 
@@ -273,8 +280,12 @@ User can submit their responses and store their responses.
 | ------------| ----------------| ----------------| ----------------|
 |002-1        | Backend for Storing Responses | 5 |     Tarif      |
 
+11. Tailored resourced page backend
 
-
+| **Task ID** | **Description** | **Story Point** | **Assigned To** |
+| ------------| ----------------| ----------------| ----------------|
+|001-1 Backend| Create a matching system for resources | 5 | Amaar|
+|001-2 Backend| Implement a backend that stores and retrieves resources allowing the user to view past resources | 8 | Amaar|
 
 # Appendix - Project Backlog
 
@@ -286,5 +297,6 @@ User can submit their responses and store their responses.
 | Emergency contact information | 002    | User | Have an nice and clear user interface filling out emergency contact information | the application is easier to use | F | High |
 | downloading data | 007    | User | downlaod my data  | i can view it on a PDF | F | High |
 | deleting user data | 008    | User | delete my data | the organisation doesnt have any of my information | F | High |
-
+| Tailored resources|012    | User | Save my progress and preferred resources | I can access it easier later on | F | Medium |
+|                   |012   | User | View suggestions based off of my emotions | Resources can be found easier | F | High |
 
