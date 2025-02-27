@@ -2,7 +2,7 @@
 
 ### Group number
 20
-### Friya, Isaac, Jamima, Acelya, Viktor, Abdurashid, Amaar, Tarif
+### Friya, Isaac, Jamima, Acelya, Viktor, Abdurashid, Tarif
 
 # Sprint 2 - Review and Retrospective
 
