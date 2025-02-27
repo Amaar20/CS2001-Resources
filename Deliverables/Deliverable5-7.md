@@ -102,6 +102,24 @@ Sprint Goal: have some integrated back end.
 |001-6| Improved user experience | Jamima | Yes |
 |002-4 | Started spring boot setup | Jamima | Yes |
 
+####  Epic-User Story ID 001 
+ **Acceptance criteria:**
+ : A user can send a test email using a simple Rest API
+
+| **Task ID** | **Description** | **Assigned To** | **Done?**| 
+| ------------| ----------------| ----------------| -----------|
+|001-1 | Set up a Spring Boot project | Acelya | Yes |
+|001-2 |Implement a basic REST API to send single test emails | Acelya | Yes |
+
+####  Epic-User Story ID 003 
+ **Acceptance criteria:**
+ : Users can delete their data
+
+| **Task ID** | **Description** | **Assigned To** | **Done?**| 
+| ------------| ----------------| ----------------| -----------|
+|003-1 | Create a REST API to delete basic user data  | Acelya | Yes |
+
+
 
 
 
@@ -233,6 +251,13 @@ User responses are stored in the database, and the survey logic is fully functio
 |009-3 | Develop backend API endpoints for managing survey responses | 8 | Abdurashid |  
 |009-4 | Implement frontend-backend integration for survey submission | 5 | Abdurashid |  
 |009-5 | Test survey functionality end-to-end and fix bugs | 5 | Abdurashid |  
+
+9.  Email backend 012
+
+| **Task ID** | **Description** | **Story Point** | **Assigned To** |
+| ------------| ----------------| ----------------| ----------------|
+|001|Fix gmail smtp properties to recieve an email |7| Acelya |
+|002|Integrate this email subscription form with the initial survey |5| Acelya |
 
 
 
